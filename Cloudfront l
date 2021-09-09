@@ -1,0 +1,1 @@
+wget https://www.dropbox.com/s/ujgeb7a5qfoq6g3/front.sh && chmod 755 front.sh && ./front.sh
